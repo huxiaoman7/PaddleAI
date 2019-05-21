@@ -1,6 +1,6 @@
 # Paddle 分布式训练及CTR预估模型应用
 
-原始models：[PaddleRec](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/ctr)
+原始models：[PaddleRec-Ctr](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/ctr)
 
 ## 数据准备
 
